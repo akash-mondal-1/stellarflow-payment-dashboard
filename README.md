@@ -16,7 +16,7 @@ Connect your Freighter wallet, view balances, send XLM payments, generate QR cod
 
 **Built for the Stellar White Belt Challenge**
 
-[🌐 Live Demo](YOUR_VERCEL_URL_HERE) • [⭐ GitHub Repository](YOUR_GITHUB_REPO_URL)
+[🌐 Live Demo](https://stellarflow-payment-dashboard.vercel.app/) • [⭐ GitHub Repository](https://github.com/akash-mondal-1/stellarflow-payment-dashboard)
 
 </div>
 
@@ -284,7 +284,7 @@ The application is deployed on Vercel.
 Live URL:
 
 ```text
-YOUR_VERCEL_URL_HERE
+https://stellarflow-payment-dashboard.vercel.app/
 ```
 
 Deployment Steps:
